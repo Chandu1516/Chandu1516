@@ -1,0 +1,27 @@
+<html>
+
+<head>
+    <title>
+        js function demo
+    </title>
+</head>
+
+<body>
+    <script type="text/javascript">
+        var firstval = 10;
+        function firstvalue() {
+            var firstval = 11;
+            console.log("inside the first val function :" + firstval)
+        }
+        function secondvalue() {
+            var secval = 12;
+            console.log("inside the first val function :" + secval)
+            firstvalue();
+        }
+        console.log("golbal variable :" + firstval);
+        firstvalue();
+        secondval();
+    </script>
+</body>
+
+</html>
