@@ -1,0 +1,81 @@
+.border{
+    height: fit-content;
+    width: 1564px;
+    border: 2px solid block;
+    background-image: urlhttps://www.sunds.com/images/2880*1800/2880*1800-light-cyan-solid-color-bg.jpg);
+    background-size : 100%;
+    background-repeat : no-repeat ;
+    background-position:opx opx;
+}
+height:131px;
+border :solid;
+text-align:center; 
+border-width:2px;
+margin:20px;
+padding:10px;
+font-size:55px;
+font-family :'times news roman',timer,serif;
+font-weight :bold;
+background-image :url();
+background-repeat :no-repeat;
+background-size :67%;
+background-position :275px 31px;
+background-color: rgba(252,255,82,0.719);
+}
+.box1{
+    margin: 20px;
+    background-color: rgba(252,255,82,0.719);
+    background-image: url();
+}
+li{
+    list-style:none;
+    font-weight: bold;
+}
+.bsBox{
+    width :170px;
+    background-color: white;
+    text-align: center;
+    height :20px;
+    border-radius: 5px;
+}
+.nBox{
+    position : relative;
+    left: 120px;
+    background-color: white;
+    height:20px;
+    width: 170px;
+    border-radius: 7px;
+}
+.dBox{
+    position: relative;
+    left :120px;
+    background-color: white;
+    height: 20px;
+    width: 170px;
+    border-radius: 7px;
+}
+.ps Button {
+    position : relative;
+    top : 17px;
+    left :-312px;
+    background-color: rgba(229,255,0,0.726);
+    border-radius: 50px;
+    padding: 12px;
+    font-size: 25px;
+    font-weight: bold;
+    background-image: url(https://www.sunds.com/images/2880*1800/2880*1800-light-cyan-solid-color-bg.jpg);
+    }
+    marquee
+    {
+        font : 20px bold;
+        color : brown;
+        font-family :'times new roman',times,selif;
+    }
+    .error{
+        color : red;
+        font-size : 11px;
+        position : relative;
+        left : 11px;
+        top : 2px;
+    }
+}
